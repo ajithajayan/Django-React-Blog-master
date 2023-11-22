@@ -14,5 +14,5 @@ The backend is completely build on Django using Django Rest Framework, while the
 	* View/Edit/Delete All Comments In The Blog
 	* View/Edit/Delete All Comments To A Specific Post
 	* Publish/Unpublish A Post
- * really good application
+
 
